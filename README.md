@@ -27,4 +27,4 @@ Puede Salir Y volver A Ingresar A La Terminal Para
 Que Cobren Su Tamaño Normal. 
 
 # Screenshot
-![Imagen-Teclas.jpg](https://github.com/Anonymous-Zpt/Archivos/blob/master/IMG_20200617_150618.jpg) 
+![Imagen-Teclas.jpg](https://github.com/Anonymous-Zpt/Archivos/blob/master/Teclas.jpg ) 
