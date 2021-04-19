@@ -16,9 +16,8 @@ $ apt update && apt upgrade -y
 $ pkg install git -y
 $ git clone https://github.com/Anonymous-Zpt/Teclas
 $ cd Teclas 
-$ chmod +x Start 
-$ ./Start -use --Install
-$ ./Start -use --Extra-Key
+$ chmod +x install.sh
+$ ./install.sh
 ```
 Y listo:
 Ahora Cuenta Con las 14 Teclas En Termux
